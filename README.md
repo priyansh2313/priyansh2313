@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu dutta</h1>
 <h3 align="center">A passionate Data Science developer from India</h3>
 
-- 🌱 I’m currently learning **about surviving in this Devin era😒**
+- 🌱 I’m currently learning **about surviving in this Glorified era😒**
 
 - 👨‍💻 All of my projects are available at [Still working on it...]
 
