@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshu dutta</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Data Science developer from India</h3>
 
 - 🌱 I’m currently learning **about surviving in this Devin era😒**
 
-- 👨‍💻 All of my projects are available at [Still working on it...](Still working on it...)
+- 👨‍💻 All of my projects are available at [Still working on it...]
 
-- 💬 Ask me about **Nodejs ,Expressjs ,Python**
+- 💬 Ask me about **Data Analysis ,Data visualization,Python**
 
 - 📫 How to reach me **priyanshudrew23@gmail.com**
 
