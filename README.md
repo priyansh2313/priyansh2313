@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh2313&show_icons=true&locale=en" alt="priyansh2313" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh2313&" alt="priyansh2313" /></p>
+
+
+
+[![An image of @priyansh2313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyansh2313)](https://holopin.io/@priyansh2313)
