@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/priyanshu-dutta-833298320](www.linkedin.com/in/priyanshu-dutta-833298320)
 
-- ⚡ Fun fact **About 70% of coding jobs don't have anything to do with technology**
+- ⚡ Fun fact **It’s Generalization that Counts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
