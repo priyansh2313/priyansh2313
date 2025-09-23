@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about surviving in this Glorified era😒**
 
-- 👯 I’m looking to collaborate on **Intresting Open source, Data science projects**
+- 👯 I’m looking to collaborate on **Interesting Open source, Javascript based tech stack projects**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/priyanshu-dutta-833298320](www.linkedin.com/in/priyanshu-dutta-833298320)
 
