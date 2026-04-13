@@ -28,6 +28,6 @@ src="https://img.shields.io/github/followers/priyansh2313?logo=github&style=for-
 
 <a href="http://www.github.com/priyansh2313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh2313&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
