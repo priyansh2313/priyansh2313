@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 5x DEV
 ------
 
-Delivers end-to-end, production-grade systems at exceptional speed—transforming complex problems into scalable, high-performance solutions using clean architecture, automation, and modern technologie
+Delivers end-to-end, production-grade systems at exceptional speed—transforming complex problems into scalable, high-performance solutions using clean architecture, automation, and modern technologies.
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [priyanshudrew23@gmail.com](mailto:priyanshudrew23@gmail.com)
