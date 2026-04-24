@@ -38,13 +38,10 @@
 
 </div>
 
----
-
-
 
 ---
 
-## ⚡ Developer Mindset
+## ⚡Mindset
 
 <div align="center">
 
