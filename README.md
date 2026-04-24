@@ -55,18 +55,10 @@ Fast Execution      •  High Impact Thinking
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-
-</div>
-
----
 
 
----
+
+
 
 ## 🌐 Connect
 
